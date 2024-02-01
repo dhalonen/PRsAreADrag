@@ -1,5 +1,5 @@
 # PRs Are a Drag
-It seems a common means to manage code is that a PR is created, published by the author, then going out to the public square to beg for someone to review & approve. It’s especially problematic when more than one reviewer is required, as most reviewers have their own work to focus on.
+It seems common for busness teams to manage code by an author creating & publishing a PR and then going out to the public square to beg for someone to review & approve. It’s especially problematic when more than one reviewer is required, as most reviewers have their own work to focus on.
 
 When solving problems, one strategy is to consider the 3 numbers that make sense: 0, 1, or infinity. Here is the case for ZERO reviewers, ie directly committing to the trunk or feature branch (teams have different practices on this).
 
