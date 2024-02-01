@@ -3,7 +3,7 @@ It seems a common means to manage code is that a PR is created, published by the
 
 When solving problems, one strategy is to consider the 3 numbers that make sense: 0, 1, or infinity. Here is the case for ZERO reviewers, ie directly committing to the trunk or feature branch (teams have different practices on this).
 
-Benefits
+## Benefits
 1. Developers can immediately deploy into test environments.
 1. Developers aren’t distracted by other dev efforts.
 1. Features can be delivered to production sooner.
@@ -12,7 +12,7 @@ Benefits
 1. Reduces the need for as many senior devs on a team.
 1. Meaningful unit & other automated tests help limit the risk.
 
-Costs
+## Costs
 1. Automated code inspection tools (CheckStyle, linters, Sonar, etc.) become more important and expensive to maintain.
 1. Feature flag techniques or tools such as Launch Darkly need to be used to enable controlled deployment.
 1. Complex or inter-twined code may add difficult coordination feature flag efforts.
